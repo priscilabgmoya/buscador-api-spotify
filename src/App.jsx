@@ -1,6 +1,4 @@
-
-import './App.css'
-import { Form ,Button} from 'react-bootstrap';
+import './App.css';
 import MenuPrincipal from './components/MenuPrincipal/MenuPrincipal';
 
 
